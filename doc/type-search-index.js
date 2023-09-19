@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Anticorps"},{"p":"<Unnamed>","l":"Antigene"},{"p":"<Unnamed>","l":"Color"},{"p":"<Unnamed>","l":"Lipides"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"NewEchiquier"},{"p":"<Unnamed>","l":"Pions"}]

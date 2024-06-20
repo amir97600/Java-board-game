@@ -12,7 +12,7 @@ Le jeu est un jeu plateau avec différents pions :
 
 ## Fonctionnalités
 
-On peut continuer une partie à partir d'un fichier que l'on a sauvegardé. 
+- On peut continuer une partie à partir d'un fichier que l'on a sauvegardé. 
 
-Grille infinie : il y a la possibilité de se déplacer du bord du plateau vers le bord opposé du plateau.
-Polymorphisme : il y a la possibilité d'avoir plusieurs antigènes sur une même case.
+- Grille infinie : il y a la possibilité de se déplacer du bord du plateau vers le bord opposé du plateau.
+- Polymorphisme : il y a la possibilité d'avoir plusieurs antigènes sur une même case.
